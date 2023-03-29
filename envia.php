@@ -4,7 +4,7 @@
  */
 
 // an email address that will be in the From field of the email.
-$from = 'rei.geo@hotmail.com';
+$from = 'joao.souza.rabelo@escola.pr.gov.br';
 
 // an email address that will receive the email with the output of the form
 $sendo = 'joao.souza.rabelo@escola.pr.gov.br';
